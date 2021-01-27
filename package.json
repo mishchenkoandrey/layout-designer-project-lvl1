@@ -4,7 +4,7 @@
   "description": "Landing page describing common cognitive biases in programming",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mishchenkoandrey/layout-designer-project-lvl1.git"
+    "url": "ssh://github.com/mishchenkoandrey/layout-designer-project-lvl1.git"
   },
   "main": "",
   "dependencies": {},
