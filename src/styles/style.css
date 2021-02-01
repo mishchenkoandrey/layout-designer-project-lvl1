@@ -441,7 +441,7 @@ p:last-of-type {
 
   background: url('../assets/images/background.png') no-repeat;
   background-size: cover;
-  opacity: 0.06;
+  opacity: 0.1;
 
   content: '';
 }
