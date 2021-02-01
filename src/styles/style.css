@@ -259,10 +259,6 @@ p:last-of-type {
   margin-bottom: 100px;
 }
 
-.mb-111 {
-  margin-bottom: 111px;
-}
-
 .ml-minus-10 {
   margin-left: -10px;
 }
@@ -333,6 +329,10 @@ p:last-of-type {
 
 .pb-100 {
   padding-bottom: 100px;
+}
+
+.pb-111 {
+  padding-bottom: 111px;
 }
 
 .pl-10 {
@@ -545,6 +545,11 @@ p:last-of-type {
   width: calc((100% / 3) - 10px);
 }
 
-.video {
+.shadow {
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+.video {
+  width: 919px;
+  height: 569px;
 }
